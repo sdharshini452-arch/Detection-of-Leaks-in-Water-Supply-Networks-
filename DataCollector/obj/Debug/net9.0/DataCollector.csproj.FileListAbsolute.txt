@@ -1,0 +1,14 @@
+D:\Leak Detection\DataCollector\bin\Debug\net9.0\DataCollector.exe
+D:\Leak Detection\DataCollector\bin\Debug\net9.0\DataCollector.deps.json
+D:\Leak Detection\DataCollector\bin\Debug\net9.0\DataCollector.runtimeconfig.json
+D:\Leak Detection\DataCollector\bin\Debug\net9.0\DataCollector.dll
+D:\Leak Detection\DataCollector\bin\Debug\net9.0\DataCollector.pdb
+D:\Leak Detection\DataCollector\obj\Debug\net9.0\DataCollector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leak Detection\DataCollector\obj\Debug\net9.0\DataCollector.AssemblyInfoInputs.cache
+D:\Leak Detection\DataCollector\obj\Debug\net9.0\DataCollector.AssemblyInfo.cs
+D:\Leak Detection\DataCollector\obj\Debug\net9.0\DataCollector.csproj.CoreCompileInputs.cache
+D:\Leak Detection\DataCollector\obj\Debug\net9.0\DataCollector.dll
+D:\Leak Detection\DataCollector\obj\Debug\net9.0\refint\DataCollector.dll
+D:\Leak Detection\DataCollector\obj\Debug\net9.0\DataCollector.pdb
+D:\Leak Detection\DataCollector\obj\Debug\net9.0\DataCollector.genruntimeconfig.cache
+D:\Leak Detection\DataCollector\obj\Debug\net9.0\ref\DataCollector.dll
